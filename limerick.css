@@ -13,9 +13,9 @@ body {
   }
 
  p {
-  font-family: verdana;
-  font-size: 11px;
-}
-p.a {
-  word-break: normal;
-}
+    font-family: verdana;
+    font-size: 11px;
+  }
+  p.a {
+    word-break: normal;
+  }
